@@ -13,3 +13,4 @@ running = True
 while running:
     pygame.draw.rect(screen, (255, 35, 255), (0.5*res_x, 0.5*res_y), (40, 40))
     pygame.display.update()
+    
